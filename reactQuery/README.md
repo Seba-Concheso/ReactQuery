@@ -1,1 +1,1 @@
-Proyecto básico de typascript con react query
+Proyecto básico de typescript con react query.
